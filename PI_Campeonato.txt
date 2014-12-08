@@ -1,0 +1,21 @@
+Para um campeonato com 10 times, crie uma solução em asp para receber a entrada de gols referentes a cada jogo,Os times jogam entre si e ao final uma tabela de classificação será representada com as totalizações previstas:
+-Quantidade de jogo				'OK
+-Pontos ganhos (Vitoria = 3/empate = 1)			'OK
+-Qtd de vitorias 					'OK
+-Qtd de derrotas					'OK
+-Qtd de empates					'OK
+-Gols marcados					'OK	
+-Gols sofridos					'OK	
+-Saldo de Gols					'OK
+A digitação dos gols de cada jogo serão divididas em rodadas
+informar tambem a data, o horario e o local do jogo
+
+
+arrumar divs do novo CSS
+ver input type =submit pra relacionar com o ASP
+
+
+rodada | partida.da.rodada | Jogador
+
+HTML - time(nº) | jogo dele
+ex:  11
